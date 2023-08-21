@@ -55,7 +55,7 @@ app.post("/",function name(req,res) {
         // Headers:{
         //     Authorization:"auth fa3476a3533fd8a46b888399c8a5ac34-us21"
         // },
-        auth: "west:fa3476a3533fd8a46b888399c8a5ac34-us21",
+        auth: "west:19a51b31e796adaa04ca8b5bff5fa1c5-us21",
         // body:jsonData
     }
 
@@ -108,7 +108,7 @@ const port = process.env.PORT || 3000;
 app.listen(port, console.log(`Server is running on ${port}`))
 
 
-// APIKEY: fa3476a3533fd8a46b888399c8a5ac34-us21
+// APIKEY: 19a51b31e796adaa04ca8b5bff5fa1c5-us21
 
 // listID cfaae0c16e
 
